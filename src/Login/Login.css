@@ -1,0 +1,55 @@
+.div__container-l {
+    background: linear-gradient(90deg,black, red,black);
+    min-height: 680px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.img__me {
+    margin-left: 125px;
+}
+.div__container-co {
+    background-image: url(https://i.gifer.com/4xqN.gif);
+    width: 480px;
+    height: 360px;
+    border: 5px inset gray;
+    margin-bottom: 75px;
+    box-shadow: 0 0 25px  darkgray;
+}
+.co__label {
+    background: rgba(255, 0, 0, 0.315);
+    text-align: center;
+    margin: auto;
+    color: white;
+    text-shadow: 0 0 25px white;
+    width: 400px;
+    font-size: 20px;
+    font-weight: 800;
+}
+.con__in {
+    background: rgba(255, 0, 0, 0.315);
+    text-align: center;
+    margin: 7px auto;
+    color: white;
+    text-shadow: 0 0 25px white;
+    font-size: 20px;
+    font-weight: 800;
+    width: 300px;
+}
+.button__ingreso {
+    background: red;
+    text-align: center;
+    margin: 35px auto;
+    width: 110px;
+    border: 5px inset white;
+    box-shadow: 0 0 25px darkgrey;
+}
+.button__in {
+    text-align: center;
+    background: black;
+    width: 100%;
+    font-size: 20px;
+    font-weight: 900;
+    color: white;
+    text-shadow: 0 0 25px darkgrey;
+}

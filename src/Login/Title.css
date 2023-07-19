@@ -1,0 +1,45 @@
+.title-container{
+    text-align: center;
+}
+.title-label {
+    color: white;
+    font-weight: 600;
+    font-size: 50px;
+    width: 450px;
+    text-align: center;
+    text-shadow: 0 0 15px white;
+    overflow: hidden;
+}
+.input__div-l{
+    width: 175px;
+    color: white;
+    text-shadow: 0 0 15px white;
+    text-align: left;
+    font-size: 25px;
+    margin: auto;
+    font-weight: 700;
+    margin-top: 15px;
+}
+.input-container {
+    background: white;
+    text-align: center;
+    border: 5px groove white;
+    border-radius: 12px;
+    box-shadow: 0 0 25px darkgray;
+    width: 205px;
+    height: 25px;
+    margin: 5px auto;
+}
+.input-error {
+    background: rgb(215, 146, 146);
+    height: 20px;
+    width: 197px;
+}
+.regular-style {
+    height: 20px;
+    width: 197px;
+    font-size: 15px;
+    font-weight: 900;
+    color: black;
+    background: white;
+}

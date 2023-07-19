@@ -1,0 +1,18 @@
+a button {
+    background: black;
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+    border: 3px inset white;
+    box-shadow: 0 0 20px red;
+    margin-top: 10px;
+}
+.descuento {
+    color: white;
+    font-size: 50px;
+}
+.p {
+    font-size: 25px;
+    color: white;
+    margin: 25px 50px;
+}

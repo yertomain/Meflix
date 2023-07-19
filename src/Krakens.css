@@ -1,0 +1,16 @@
+.div__pelis {
+    border: 5px inset white;
+    width: 30%;
+    height: 30%;
+    margin: 15px auto 0;
+    box-shadow: 0 0 25px gray;
+    transition-duration: 1s;
+    overflow: hidden;
+}
+.div__pelis:hover {
+    transform: scale(.9);
+}
+.img___pelis {
+    width: 100%;
+    height: 450px;
+}

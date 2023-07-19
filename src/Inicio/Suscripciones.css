@@ -1,0 +1,24 @@
+.container{
+    width: 90%;
+    background: red;
+    text-align: center;
+    display: flex;
+    margin-bottom: 15px;
+    margin: auto;
+   
+}
+.div-container{
+    width: 90%;
+    display: inline-block;
+    background: black;
+    color: white;
+}
+.me {
+    width: 90%;
+    background: red;
+    color: white;
+    text-shadow: 0 0 20px white;
+    margin: auto;
+    margin-top: 35px;
+    text-align: center;
+}

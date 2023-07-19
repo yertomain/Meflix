@@ -1,0 +1,20 @@
+.img__div {
+    display: inline-block;
+    position: relative;
+    justify-content: center;
+    max-width: 100%;
+    margin-top: 25px;
+    margin-left: 175px;
+}
+.img__juegos {
+    border: 5px inset white;
+    box-shadow: 10px 10px 3px black;
+    width: 200px;
+    height: 275px;
+    transition-duration: 1s;
+    overflow: hidden;
+    margin: auto 10px;
+}
+.img__juegos:hover {
+    transform: scale(1.1);
+}
